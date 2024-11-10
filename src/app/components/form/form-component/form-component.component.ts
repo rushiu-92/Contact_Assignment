@@ -53,7 +53,7 @@ export class FormComponentComponent {
       })
     }else{
       this.class = 'alert-info'
-      this.alertMessage = 'Please enter a valid email address.'
+      this.alertMessage = 'Please enter a valid details.'
       this.alertFlicker()
       this.submitClick = true
     }
