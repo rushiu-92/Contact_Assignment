@@ -13,7 +13,7 @@ versions
 
 Angular - 16
 
-api endpoint unavailble so  used the json server 
+api endpoint unavailble so  used the json server endpoints locally its similar to backend api endpoints
 for starting json server used please following cammand 
 
 json-server --watch db.json
