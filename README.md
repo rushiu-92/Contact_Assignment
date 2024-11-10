@@ -14,6 +14,6 @@ versions
 Angular - 16
 
 api endpoint unavailble so  used the json server 
-for starting json jerver used please following cammand 
+for starting json server used please following cammand 
 
 json-server --watch db.json
