@@ -1,4 +1,4 @@
-<!-- according to following points work done  -->
+according to following points work done  
 
 1) Apply a search functionality for filtering data efficiently.
 2) Utilize lazy loading for optimal performance and implement feature modules effectively.
@@ -9,10 +9,10 @@
 7) Use Angular pipes effectively for data transformation and display.
 
 
-<!-- versions -->
+versions
 
 Angular - 16
 
-<!-- api endpoint unavailble so  used the json server  -->
-<!-- for starting json jerver used please following cammand -->
+api endpoint unavailble so  used the json server 
+for starting json jerver used please following cammand 
 json-server --watch db.json
